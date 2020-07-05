@@ -6,6 +6,7 @@ Resolução do Exercício sobre o pacote java.util.Date();
 Tecnologias Utilizadas:
 
 - JAVA (JDK 11).
+- Gradle 6.5.1
 
 ##### Questão:
 
